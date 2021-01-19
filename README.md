@@ -1,6 +1,6 @@
 # setup-elixir
 
-**📝 Note: This action is now maintained by the [Erlang Ecosystem Foundation](https://erlef.org) at [erlef/setup-elixir](https://github.com/erlef/setup-elixir). Rather than using actions/setup-elixir, please begin referring to that action in your workflows, instead.**
+**Please note: This repository is currently unmaintained by a team of developers at GitHub. It is now maintained by the [Erlang Ecosystem Foundation](https://erlef.org) at [erlef/setup-elixir](https://github.com/erlef/setup-elixir). Rather than using actions/setup-elixir, please begin referring to that action in your workflows, instead.**
 
 [![](https://github.com/actions/setup-elixir/workflows/Test/badge.svg)](https://github.com/actions/setup-elixir/actions)
 [![](https://github.com/actions/setup-elixir/workflows/Licensed/badge.svg)](https://github.com/actions/setup-elixir/actions)
